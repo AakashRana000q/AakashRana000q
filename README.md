@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AakashRana000q
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in decentralised technologies and machine Learning
+- 🌱 I’m currently learning about zero knowlege proofs.
+- 💞️ I’m looking to collaborate on core blockchain  projects.
 - 📫 How to reach me E-mail- aakashrana000q@gmail.com
 
 <!---
